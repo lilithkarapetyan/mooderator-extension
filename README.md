@@ -1,3 +1,4 @@
+![mooderator logo](https://i.ibb.co/SrLvPCc/Screen-Shot-2021-10-25-at-16-50-20.png)
 # mooderator
 Mooderator is an ultimate tool that gives you an estimate of how a text will affect your mood before even reading it.
 
